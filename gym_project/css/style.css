@@ -296,7 +296,7 @@ flex-direction: row;
     margin: 12px;}
 
 #services-sec #boxes1{
-    background-image: url(../img/bodybuilding.jpg);
+    background-image: url(https://images.pexels.com/photos/1431282/pexels-photo-1431282.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -316,7 +316,7 @@ flex-direction: row;
     cursor: pointer;      
 }
 #services-sec #boxes2{
-    background-image: url(../img/weight\ gain.jpg);
+    background-image: url(https://images.pexels.com/photos/416809/pexels-photo-416809.jpeg?auto=compress&cs=tinysrgb&w=400);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -331,7 +331,7 @@ flex-direction: row;
 
 }
 #services-sec #boxes3{
-    background-image: url(../img/weight\ loss.jpg);
+    background-image: url(https://images.pexels.com/photos/6551174/pexels-photo-6551174.jpeg?auto=compress&cs=tinysrgb&w=400);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -346,7 +346,7 @@ flex-direction: row;
     
 }
 #services-sec #boxes4{
-    background-image: url(../img/yoga.jpg);
+    background-image: url(https://images.pexels.com/photos/864939/pexels-photo-864939.jpeg?auto=compress&cs=tinysrgb&w=400);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
